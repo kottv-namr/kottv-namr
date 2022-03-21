@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Array_String_Assignments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Collection_Assignments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Exception_Handling_Assignments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/File_Handling_Assignments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Loop_Assignments" vcs="Git" />
+  </component>
+</project>
